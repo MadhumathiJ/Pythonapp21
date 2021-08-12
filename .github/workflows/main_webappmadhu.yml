@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'webappmadhu'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_ae6c2c695fe54615933b71ab01b2c85b }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_730dddd265ef47d1803c934dd099739e }}
